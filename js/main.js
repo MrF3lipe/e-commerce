@@ -100,6 +100,7 @@ function agregarAlCarrito(e){
         const productoExistente = productosEnCarrito.find(producto => producto.id === idProducto);
         productoExistente.cantidad++;
     }else{
+        console.log(productoAgregado);
         productoAgregado.cantidad = 1;
         productosEnCarrito.push(productoAgregado);
     }

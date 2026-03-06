@@ -11,7 +11,6 @@ closeMenu.addEventListener("click", () =>{
 });
 
 document.addEventListener('click', (e) => {
-    console.log(e);
     if (aside.classList.contains('aside-visible') && 
         !aside.contains(e.target))
       aside.classList.remove('aside-visible');
