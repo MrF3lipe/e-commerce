@@ -6,6 +6,7 @@ const contenedorCarritoAcciones = document.querySelector("#contenedor-carrito-ac
 const contenedorCarritoComprado = document.querySelector("#contenedor-carrito-comprado");
 const botonVaciar = document.querySelector("#boton-vaciar-carrito");
 const botonComprar = document.querySelector("#carrito-acciones-comprar");
+const aside = document.querySelector("aside");
 
 let botonesEliminar = document.querySelectorAll(".carrito-producto-eliminar");
 let botonesModificarMas = document.querySelectorAll(".carrito-boton-modificar-mas");

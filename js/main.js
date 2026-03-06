@@ -12,6 +12,7 @@ const botonesCategorias = document.querySelectorAll(".boton-categoria");
 const tituloPrincipal = document.querySelector("#titulo-principal");
 let botonesAgregar = document.querySelectorAll(".producto-agregar")
 const numeroCarrito = document.querySelector("#numero-carrito");
+const aside = document.querySelector("aside");
 
 function cargarProductos(productosElegidos){
 
@@ -39,7 +40,10 @@ cargarProductos(productos);
 botonesCategorias.forEach(boton =>{
     boton.addEventListener("click", (e)=>{
 
-        botonesCategorias.forEach(boton2 => boton2.classList.remove("active"));
+        botonesCategorias.forEach(boton2 => {
+            boton2.classList.remove("active");
+            aside.classList.remove("aside-visible");
+        });
         e.currentTarget.classList.add("active");
 
         
@@ -113,3 +117,6 @@ function actualizarCantidadCarrito(){
         numeroCarrito.innerHTML = 0;
     }
 }
+
+
+

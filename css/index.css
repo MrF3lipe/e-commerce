@@ -328,7 +328,7 @@ main{
 
     aside{
         position: fixed;
-        z-index: 9;
+        z-index: 1500;
         background-color: var(--clr-main);
         left: 0%;
         box-shadow: 0 0 0 100vmax rgba(0, 0, 0, .75);
@@ -363,6 +363,10 @@ main{
         padding: 1rem;
         justify-content: space-between;
         align-items: center;
+        position: sticky;
+        top: 0;
+        background-color: var(--clr-main);
+        z-index: 1000;
     }
 
     .header-mobile .logo{
@@ -394,7 +398,7 @@ main{
 
     aside{
         position: fixed;
-        z-index: 9;
+        z-index: 1500;
         background-color: var(--clr-main);
         left: 0%;
         box-shadow: 0 0 0 100vmax rgba(0, 0, 0, .75);
@@ -429,6 +433,10 @@ main{
         padding: 1rem;
         justify-content: space-between;
         align-items: center;
+        position: sticky;
+        top: 0;
+        background-color: var(--clr-main);
+        z-index: 1000;
     }
 
     .header-mobile .logo{
