@@ -1,0 +1,252 @@
+[
+    {
+        "id": "electrodomestico",
+        "titulo": "Electrodomestico",
+        "imagen": "./img/Producto.png",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "electrodomesticos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "refrigerador-4-puertas-bonito-y-grande",
+        "titulo": "Refrigerador 4 puertas bonito y grande",
+        "imagen": "./img/Producto.png",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "electrodomesticos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "mueble",
+        "titulo": "Mueble",
+        "imagen": "./img/Producto.png",
+        "categoria": {
+            "nombre": "Muebles",
+            "id": "muebles"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "ropa",
+        "titulo": "Ropa",
+        "imagen": "./img/Producto.png",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "ropa"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "tecnologia",
+        "titulo": "Tecnología",
+        "imagen": "./img/Producto.png",
+        "categoria": {
+            "nombre": "Tecnología",
+            "id": "tecnologia"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "electrodomestico-001",
+        "titulo": "Refrigerador Samsung 300L",
+        "imagen": "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?w=300",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "electrodomesticos"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "electrodomestico-002",
+        "titulo": "Lavadora LG 15kg",
+        "imagen": "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?w=300",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "electrodomesticos"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "electrodomestico-003",
+        "titulo": "Microondas Panasonic 20L",
+        "imagen": "https://images.unsplash.com/photo-1574269909862-7e1d70bb8078?w=300",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "electrodomesticos"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "electrodomestico-004",
+        "titulo": "Aspiradora Roborock S7",
+        "imagen": "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=300",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "electrodomesticos"
+        },
+        "precio": 2800
+    },
+    {
+        "id": "electronica-001",
+        "titulo": "Smart TV Sony 55\" 4K",
+        "imagen": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=300",
+        "categoria": {
+            "nombre": "Electronica",
+            "id": "electronica"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "electronica-002",
+        "titulo": "Auriculares Sony WH-1000XM4",
+        "imagen": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=300",
+        "categoria": {
+            "nombre": "Electronica",
+            "id": "electronica"
+        },
+        "precio": 2100
+    },
+    {
+        "id": "electronica-003",
+        "titulo": "iPad Pro 12.9\" 2022",
+        "imagen": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=300",
+        "categoria": {
+            "nombre": "Electronica",
+            "id": "electronica"
+        },
+        "precio": 8500
+    },
+    {
+        "id": "ropa-001",
+        "titulo": "Camisa Oxford Manga Larga",
+        "imagen": "https://images.unsplash.com/photo-1598033121418-5e17a7272e97?w=300",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "ropa"
+        },
+        "precio": 450
+    },
+    {
+        "id": "ropa-002",
+        "titulo": "Jeans Levi's 501",
+        "imagen": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=300",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "ropa"
+        },
+        "precio": 890
+    },
+    {
+        "id": "ropa-003",
+        "titulo": "Chaqueta de Cuero",
+        "imagen": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=300",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "ropa"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "deportes-001",
+        "titulo": "Bicicleta MTB 29\"",
+        "imagen": "https://images.unsplash.com/photo-1576435728678-68d0fbf94e91?w=300",
+        "categoria": {
+            "nombre": "Deportes",
+            "id": "deportes"
+        },
+        "precio": 3800
+    },
+    {
+        "id": "deportes-002",
+        "titulo": "Pesas Mancuernas 20kg",
+        "imagen": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=300",
+        "categoria": {
+            "nombre": "Deportes",
+            "id": "deportes"
+        },
+        "precio": 600
+    },
+    {
+        "id": "hogar-001",
+        "titulo": "Juego de Sábanas 300 Hilos",
+        "imagen": "https://images.unsplash.com/photo-1621897934065-2bccb7d5f2c3?w=300",
+        "categoria": {
+            "nombre": "Hogar",
+            "id": "hogar"
+        },
+        "precio": 350
+    },
+    {
+        "id": "hogar-002",
+        "titulo": "Lámpara de Pie Moderna",
+        "imagen": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=300",
+        "categoria": {
+            "nombre": "Hogar",
+            "id": "hogar"
+        },
+        "precio": 420
+    },
+    {
+        "id": "hogar-003",
+        "titulo": "Set de Ollas Antiadherentes",
+        "imagen": "https://images.unsplash.com/photo-1584990347449-a0cb8e3f7d6d?w=300",
+        "categoria": {
+            "nombre": "Hogar",
+            "id": "hogar"
+        },
+        "precio": 890
+    },
+    {
+        "id": "juguetes-001",
+        "titulo": "LEGO Star Wars Millennium Falcon",
+        "imagen": "https://images.unsplash.com/photo-1579372788045-d24232f4c829?w=300",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "juguetes"
+        },
+        "precio": 650
+    },
+    {
+        "id": "juguetes-002",
+        "titulo": "Muñeca Barbie Dreamhouse",
+        "imagen": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c5?w=300",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "juguetes"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "libros-001",
+        "titulo": "Cien años de soledad - García Márquez",
+        "imagen": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=300",
+        "categoria": {
+            "nombre": "Libros",
+            "id": "libros"
+        },
+        "precio": 180
+    },
+    {
+        "id": "libros-002",
+        "titulo": "Sapiens: De animales a dioses",
+        "imagen": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=300",
+        "categoria": {
+            "nombre": "Libros",
+            "id": "libros"
+        },
+        "precio": 220
+    },
+    {
+        "id": "belleza-001",
+        "titulo": "Perfume Chanel N°5",
+        "imagen": "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=300",
+        "categoria": {
+            "nombre": "Belleza",
+            "id": "belleza"
+        },
+        "precio": 850
+    }
+]
